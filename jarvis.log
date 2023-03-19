@@ -1,0 +1,332 @@
+mercredi 1 décembre 2021, 19:53:16 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+mercredi 1 décembre 2021, 19:53:16 (UTC+0100) [94mUser defined commands:[0m
+mercredi 1 décembre 2021, 19:53:16 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+mercredi 1 décembre 2021, 19:53:16 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+mercredi 1 décembre 2021, 19:53:16 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+mercredi 1 décembre 2021, 19:53:16 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+mercredi 1 décembre 2021, 19:53:16 (UTC+0100) >*NON*|*PAS*[0m
+mercredi 1 décembre 2021, 19:53:39 (UTC+0100) Press [Enter] to start voice command[96mdebian[0m: |/-\|/-\|/-\?[2m(timeout)[0m
+mercredi 1 décembre 2021, 19:54:19 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+mercredi 1 décembre 2021, 19:54:19 (UTC+0100) [94mUser defined commands:[0m
+mercredi 1 décembre 2021, 19:54:19 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+mercredi 1 décembre 2021, 19:54:19 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+mercredi 1 décembre 2021, 19:54:19 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+mercredi 1 décembre 2021, 19:54:19 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+mercredi 1 décembre 2021, 19:54:19 (UTC+0100) >*NON*|*PAS*[0m
+mercredi 1 décembre 2021, 19:54:31 (UTC+0100) Press [Enter] to start voice command[96mdebian[0m: [2m(timeout)[0m
+mercredi 1 décembre 2021, 19:55:47 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+mercredi 1 décembre 2021, 19:55:47 (UTC+0100) [94mUser defined commands:[0m
+mercredi 1 décembre 2021, 19:55:47 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+mercredi 1 décembre 2021, 19:55:47 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+mercredi 1 décembre 2021, 19:55:47 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+mercredi 1 décembre 2021, 19:55:47 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+mercredi 1 décembre 2021, 19:55:47 (UTC+0100) >*NON*|*PAS*[0m
+mercredi 1 décembre 2021, 19:56:04 (UTC+0100) Press [Enter] to start voice command[96mdebian[0m: [2m(timeout)[0m
+jeudi 2 décembre 2021, 21:39:33 (UTC+0100) stt_engines/wit/main.sh: ligne 13: wit_STTls : commande introuvable
+jeudi 2 décembre 2021, 21:39:33 (UTC+0100) [91mERROR: invalid command recognition engine (snowboy)[0m
+jeudi 2 décembre 2021, 21:39:33 (UTC+0100) [93mHELP: jarvis > Settings > Voice Reco > Reco of commands[0m
+jeudi 2 décembre 2021, 21:40:19 (UTC+0100) stt_engines/wit/main.sh: ligne 13: wit_STTls : commande introuvable
+jeudi 2 décembre 2021, 21:40:19 (UTC+0100) [91mERROR: invalid command recognition engine (snowboy)[0m
+jeudi 2 décembre 2021, 21:40:19 (UTC+0100) [93mHELP: jarvis > Settings > Voice Reco > Reco of commands[0m
+jeudi 2 décembre 2021, 21:43:07 (UTC+0100) stt_engines/wit/main.sh: ligne 13: wit_STTls : commande introuvable
+jeudi 2 décembre 2021, 21:43:07 (UTC+0100) [91mERROR: invalid command recognition engine (snowboy)[0m
+jeudi 2 décembre 2021, 21:43:07 (UTC+0100) [93mHELP: jarvis > Settings > Voice Reco > Reco of commands[0m
+jeudi 2 décembre 2021, 21:44:31 (UTC+0100) stt_engines/wit/main.sh: ligne 13: wit_STTls : commande introuvable
+jeudi 2 décembre 2021, 21:44:31 (UTC+0100) [91mERROR: invalid command recognition engine (snowboy)[0m
+jeudi 2 décembre 2021, 21:44:31 (UTC+0100) [93mHELP: jarvis > Settings > Voice Reco > Reco of commands[0m
+jeudi 2 décembre 2021, 21:55:15 (UTC+0100) [91mERROR: invalid command recognition engine (snowboy)[0m
+jeudi 2 décembre 2021, 21:55:15 (UTC+0100) [93mHELP: jarvis > Settings > Voice Reco > Reco of commands[0m
+jeudi 2 décembre 2021, 23:13:08 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+jeudi 2 décembre 2021, 23:13:08 (UTC+0100) [94mUser defined commands:[0m
+jeudi 2 décembre 2021, 23:13:08 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+jeudi 2 décembre 2021, 23:13:08 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+jeudi 2 décembre 2021, 23:13:08 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+jeudi 2 décembre 2021, 23:13:08 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+jeudi 2 décembre 2021, 23:13:09 (UTC+0100) >*NON*|*PAS*[0m
+jeudi 2 décembre 2021, 23:13:21 (UTC+0100) Press [Enter] to start voice command[96mdebian[0m: [2m(timeout)[0m
+jeudi 2 décembre 2021, 23:24:54 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+jeudi 2 décembre 2021, 23:24:54 (UTC+0100) [94mUser defined commands:[0m
+jeudi 2 décembre 2021, 23:24:54 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+jeudi 2 décembre 2021, 23:24:54 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+jeudi 2 décembre 2021, 23:24:54 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+jeudi 2 décembre 2021, 23:24:54 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+jeudi 2 décembre 2021, 23:24:54 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 10:05:57 (UTC+0100) [91mERROR: invalid command recognition engine (snowboy)[0m
+vendredi 3 décembre 2021, 10:05:57 (UTC+0100) [93mHELP: jarvis > Settings > Voice Reco > Reco of commands[0m
+vendredi 3 décembre 2021, 10:53:39 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 10:53:39 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 10:53:39 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 10:53:39 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 10:53:39 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 10:53:39 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 10:53:39 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 10:53:51 (UTC+0100) Press [Enter] to start voice command[96mdebian[0m: [2m(timeout)[0m
+vendredi 3 décembre 2021, 11:02:04 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 11:02:04 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 11:02:04 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 11:02:04 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 11:02:04 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 11:02:04 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 11:02:04 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 11:02:17 (UTC+0100) Press [Enter] to start voice command[96mdebian[0m: [2m(timeout)[0m
+vendredi 3 décembre 2021, 19:39:11 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:39:11 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:39:11 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:39:11 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:39:11 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:39:11 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:39:11 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:39:15 (UTC+0100) [96mdebian[0m: |Transcribing...
+vendredi 3 décembre 2021, 19:39:15 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:39:15 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:39:15 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:39:26 (UTC+0100) [96mdebian[0m: [2m(timeout)[0m
+vendredi 3 décembre 2021, 19:39:44 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:39:44 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:39:44 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:39:44 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:39:44 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:39:44 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:39:44 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:39:46 (UTC+0100) [96mdebian[0m: |Transcribing...
+vendredi 3 décembre 2021, 19:39:46 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:39:46 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:39:46 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:39:51 (UTC+0100) [96mdebian[0m: |Transcribing...
+vendredi 3 décembre 2021, 19:39:51 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:39:51 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:39:51 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:39:55 (UTC+0100) [96mdebian[0m: |Transcribing...
+vendredi 3 décembre 2021, 19:39:55 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:39:55 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:39:55 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:40:53 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:40:53 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:40:53 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:40:53 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:40:53 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:40:53 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:40:53 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:40:56 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:40:56 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:40:56 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:40:56 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:41:44 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:41:44 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:41:44 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:41:44 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:41:44 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:41:44 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:41:44 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:41:47 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:41:47 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:41:47 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:41:47 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:41:51 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:41:51 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:41:51 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:41:51 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:41:54 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:41:54 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:41:54 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:41:54 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:42:23 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:42:23 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:42:23 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:42:23 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:42:23 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:42:23 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:42:23 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:42:26 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:42:26 (UTC+0100) End Vosk
+vendredi 3 décembre 2021, 19:42:26 (UTC+0100) /-\folder: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder. /
+vendredi 3 décembre 2021, 19:42:26 (UTC+0100) Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:42:26 (UTC+0100) [95msnowboy[0m: I did not understand: Please download the model from https://alphacephei.com/vosk/models and unpack as 'model' in the current folder.
+vendredi 3 décembre 2021, 19:43:17 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:43:17 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:43:18 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:43:18 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:43:18 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:43:18 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:43:18 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100) /-Traceback (most recent call last):
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100)   File "/home/debian/vosk-api/python/example/test_simple.py", line 15, in <module>
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100)     wf = wave.open(sys.argv[1], "rb")
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 499, in open
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100)     return Wave_read(f)
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 159, in __init__
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100)     f = builtins.open(f, 'rb')
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100) FileNotFoundError: [Errno 2] No such file or directory: 'test.wav'
+vendredi 3 décembre 2021, 19:43:20 (UTC+0100) End Vosk
+vendredi 3 décembre 2021, 19:43:21 (UTC+0100) \folder:  /
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100) ?|Vosk:
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100) Traceback (most recent call last):
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100)   File "/home/debian/vosk-api/python/example/test_simple.py", line 15, in <module>
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100)     wf = wave.open(sys.argv[1], "rb")
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 499, in open
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100)     return Wave_read(f)
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 159, in __init__
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100)     f = builtins.open(f, 'rb')
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100) FileNotFoundError: [Errno 2] No such file or directory: 'test.wav'
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100) End Vosk
+vendredi 3 décembre 2021, 19:43:24 (UTC+0100) /-\folder:  /
+vendredi 3 décembre 2021, 19:44:14 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:44:14 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:44:14 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:44:14 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:44:14 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:44:14 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:44:14 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100) Traceback (most recent call last):
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100)   File "/home/debian/vosk-api/python/example/test_simple.py", line 15, in <module>
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100)     wf = wave.open(sys.argv[1], "rb")
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 499, in open
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100)     return Wave_read(f)
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 159, in __init__
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100)     f = builtins.open(f, 'rb')
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100) FileNotFoundError: [Errno 2] No such file or directory: 'home/debian/vosk-api/python/example/test.wav'
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100) /End Vosk
+vendredi 3 décembre 2021, 19:44:17 (UTC+0100) -\folder:  /
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100) ?|Vosk:
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100) Traceback (most recent call last):
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100)   File "/home/debian/vosk-api/python/example/test_simple.py", line 15, in <module>
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100)     wf = wave.open(sys.argv[1], "rb")
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 499, in open
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100)     return Wave_read(f)
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 159, in __init__
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100)     f = builtins.open(f, 'rb')
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100) FileNotFoundError: [Errno 2] No such file or directory: 'home/debian/vosk-api/python/example/test.wav'
+vendredi 3 décembre 2021, 19:44:21 (UTC+0100) End Vosk
+vendredi 3 décembre 2021, 19:44:22 (UTC+0100) /-\folder:  /
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100) ?|Vosk:
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100) Traceback (most recent call last):
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100)   File "/home/debian/vosk-api/python/example/test_simple.py", line 15, in <module>
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100)     wf = wave.open(sys.argv[1], "rb")
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 499, in open
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100)     return Wave_read(f)
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100)   File "/usr/lib/python3.5/wave.py", line 159, in __init__
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100)     f = builtins.open(f, 'rb')
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100) FileNotFoundError: [Errno 2] No such file or directory: 'home/debian/vosk-api/python/example/test.wav'
+vendredi 3 décembre 2021, 19:44:24 (UTC+0100) End Vosk
+vendredi 3 décembre 2021, 19:44:25 (UTC+0100) /-\folder:  /
+vendredi 3 décembre 2021, 19:44:25 (UTC+0100) ?
+vendredi 3 décembre 2021, 19:44:35 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:44:35 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:44:35 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:44:35 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:44:35 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:44:35 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:44:35 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) /LOG (VoskAPI:ReadDataFiles():model.cc:213) Decoding params beam=13 max-active=7000 lattice-beam=6
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:216) Silence phones 1:2:3:4:5:6:7:8:9:10
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) -\LOG (VoskAPI:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) LOG (VoskAPI:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) LOG (VoskAPI:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) |LOG (VoskAPI:CompileLooped():nnet-compile-looped.cc:345) Spent 0.0472419 seconds in looped compilation.
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:248) Loading i-vector extractor from model/ivector/final.ie
+vendredi 3 décembre 2021, 19:44:39 (UTC+0100) LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+vendredi 3 décembre 2021, 19:44:40 (UTC+0100) /-\LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+vendredi 3 décembre 2021, 19:44:40 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:281) Loading HCL and G from model/HCLr.fst model/Gr.fst
+vendredi 3 décembre 2021, 19:44:42 (UTC+0100) |/-\|/-\|/-\|/-\|/-LOG (VoskAPI:ReadDataFiles():model.cc:302) Loading winfo model/word_boundary.int
+vendredi 3 décembre 2021, 19:44:49 (UTC+0100) \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/End Vosk
+vendredi 3 décembre 2021, 19:44:50 (UTC+0100) -\folder: a tapé pourquoi ça marche qu'une fois sur deux mais voilà ça marche /
+vendredi 3 décembre 2021, 19:44:50 (UTC+0100) a tapé pourquoi ça marche qu'une fois sur deux mais voilà ça marche
+vendredi 3 décembre 2021, 19:44:50 (UTC+0100) [95msnowboy[0m: I did not understand: a tapé pourquoi ça marche qu'une fois sur deux mais voilà ça marche
+vendredi 3 décembre 2021, 19:45:01 (UTC+0100) [96mdebian[0m: [2m(timeout)[0m
+vendredi 3 décembre 2021, 19:47:21 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:47:21 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:47:21 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:47:21 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:47:21 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:47:21 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:47:21 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:47:32 (UTC+0100) [96mdebian[0m: [2m(timeout)[0m
+vendredi 3 décembre 2021, 19:47:37 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:47:37 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:47:37 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:47:37 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:47:37 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:47:37 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:47:37 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:47:40 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:47:40 (UTC+0100) /-\|/-LOG (VoskAPI:ReadDataFiles():model.cc:213) Decoding params beam=13 max-active=7000 lattice-beam=6
+vendredi 3 décembre 2021, 19:47:40 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:216) Silence phones 1:2:3:4:5:6:7:8:9:10
+vendredi 3 décembre 2021, 19:47:41 (UTC+0100) LOG (VoskAPI:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+vendredi 3 décembre 2021, 19:47:41 (UTC+0100) LOG (VoskAPI:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+vendredi 3 décembre 2021, 19:47:41 (UTC+0100) LOG (VoskAPI:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+vendredi 3 décembre 2021, 19:47:41 (UTC+0100) \LOG (VoskAPI:CompileLooped():nnet-compile-looped.cc:345) Spent 0.0495141 seconds in looped compilation.
+vendredi 3 décembre 2021, 19:47:41 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:248) Loading i-vector extractor from model/ivector/final.ie
+vendredi 3 décembre 2021, 19:47:42 (UTC+0100) |/-\|/-\|/-\|/-\|LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+vendredi 3 décembre 2021, 19:47:43 (UTC+0100) /-\LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+vendredi 3 décembre 2021, 19:47:43 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:281) Loading HCL and G from model/HCLr.fst model/Gr.fst
+vendredi 3 décembre 2021, 19:47:44 (UTC+0100) |/-\|/-\|/-\|/-LOG (VoskAPI:ReadDataFiles():model.cc:302) Loading winfo model/word_boundary.int
+vendredi 3 décembre 2021, 19:47:52 (UTC+0100) \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|End Vosk
+vendredi 3 décembre 2021, 19:47:52 (UTC+0100) /-\folder: a tapé pourquoi ça marche qu'une fois sur deux mais voilà ça marche /
+vendredi 3 décembre 2021, 19:47:52 (UTC+0100) a tapé pourquoi ça marche qu'une fois sur deux mais voilà ça marche
+vendredi 3 décembre 2021, 19:47:52 (UTC+0100) [95msnowboy[0m: I did not understand: a tapé pourquoi ça marche qu'une fois sur deux mais voilà ça marche
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) /-\LOG (VoskAPI:ReadDataFiles():model.cc:213) Decoding params beam=13 max-active=7000 lattice-beam=6
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:216) Silence phones 1:2:3:4:5:6:7:8:9:10
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) |/LOG (VoskAPI:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) LOG (VoskAPI:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) LOG (VoskAPI:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) -LOG (VoskAPI:CompileLooped():nnet-compile-looped.cc:345) Spent 0.034831 seconds in looped compilation.
+vendredi 3 décembre 2021, 19:47:57 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:248) Loading i-vector extractor from model/ivector/final.ie
+vendredi 3 décembre 2021, 19:47:58 (UTC+0100) \|/-LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+vendredi 3 décembre 2021, 19:47:58 (UTC+0100) \|LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+vendredi 3 décembre 2021, 19:47:58 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:281) Loading HCL and G from model/HCLr.fst model/Gr.fst
+vendredi 3 décembre 2021, 19:47:58 (UTC+0100) /-\|/LOG (VoskAPI:ReadDataFiles():model.cc:302) Loading winfo model/word_boundary.int
+vendredi 3 décembre 2021, 19:49:52 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 19:49:52 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 19:49:52 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 19:49:52 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 19:49:52 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 19:49:52 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 19:49:52 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) [96mdebian[0m: |Vosk:
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:213) Decoding params beam=13 max-active=7000 lattice-beam=6
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:216) Silence phones 1:2:3:4:5:6:7:8:9:10
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) /LOG (VoskAPI:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) LOG (VoskAPI:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) LOG (VoskAPI:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) -LOG (VoskAPI:CompileLooped():nnet-compile-looped.cc:345) Spent 0.0426409 seconds in looped compilation.
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:248) Loading i-vector extractor from model/ivector/final.ie
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) \|LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+vendredi 3 décembre 2021, 19:49:57 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:281) Loading HCL and G from model/HCLr.fst model/Gr.fst
+vendredi 3 décembre 2021, 19:49:58 (UTC+0100) /-\|/-LOG (VoskAPI:ReadDataFiles():model.cc:302) Loading winfo model/word_boundary.int
+vendredi 3 décembre 2021, 19:50:00 (UTC+0100) \|/-\|/-\|/-\|/-\|/-\|/End Vosk
+vendredi 3 décembre 2021, 19:50:01 (UTC+0100) -\folder:  /
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) ?|Vosk:
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) /-LOG (VoskAPI:ReadDataFiles():model.cc:213) Decoding params beam=13 max-active=7000 lattice-beam=6
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:216) Silence phones 1:2:3:4:5:6:7:8:9:10
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) \LOG (VoskAPI:RemoveOrphanNodes():nnet-nnet.cc:948) Removed 1 orphan nodes.
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) LOG (VoskAPI:RemoveOrphanComponents():nnet-nnet.cc:847) Removing 2 orphan components.
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) LOG (VoskAPI:Collapse():nnet-utils.cc:1488) Added 1 components, removed 2
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) LOG (VoskAPI:CompileLooped():nnet-compile-looped.cc:345) Spent 0.0398071 seconds in looped compilation.
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:248) Loading i-vector extractor from model/ivector/final.ie
+vendredi 3 décembre 2021, 19:50:09 (UTC+0100) |LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:183) Computing derived variables for iVector extractor
+vendredi 3 décembre 2021, 19:50:10 (UTC+0100) /-LOG (VoskAPI:ComputeDerivedVars():ivector-extractor.cc:204) Done.
+vendredi 3 décembre 2021, 19:50:10 (UTC+0100) LOG (VoskAPI:ReadDataFiles():model.cc:281) Loading HCL and G from model/HCLr.fst model/Gr.fst
+vendredi 3 décembre 2021, 19:50:10 (UTC+0100) \|/-\LOG (VoskAPI:ReadDataFiles():model.cc:302) Loading winfo model/word_boundary.int
+vendredi 3 décembre 2021, 19:50:12 (UTC+0100) |/-\|/-\|/-\|/-\|/-\|/End Vosk
+vendredi 3 décembre 2021, 19:50:13 (UTC+0100) -\folder:  /
+vendredi 3 décembre 2021, 20:18:50 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 20:18:50 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 20:18:50 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 20:18:50 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 20:18:50 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 20:18:50 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 20:18:50 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 20:19:09 (UTC+0100) [96mdebian[0m: ###
+vendredi 3 décembre 2021, 20:57:03 (UTC+0100) [93mNo speaker configured, forcing mute mode[0m
+vendredi 3 décembre 2021, 20:57:03 (UTC+0100) [94mUser defined commands:[0m
+vendredi 3 décembre 2021, 20:57:03 (UTC+0100) [2m*AIDE*			*BONJOUR*|*SALUT*	*COMMENT*APPELLE*
+vendredi 3 décembre 2021, 20:57:03 (UTC+0100) *MERCI*			*AU REVOIR*|*BYE*	ANNULE*|TERMINE*
+vendredi 3 décembre 2021, 20:57:03 (UTC+0100) ENCORE*			*TEST*			*VERSION*
+vendredi 3 décembre 2021, 20:57:03 (UTC+0100) *REPETE (*) ET (*)	*CA VA*			>*OUI*
+vendredi 3 décembre 2021, 20:57:03 (UTC+0100) >*NON*|*PAS*[0m
+vendredi 3 décembre 2021, 20:57:23 (UTC+0100) Press [Enter] to start voice command[96mdebian[0m: ###
